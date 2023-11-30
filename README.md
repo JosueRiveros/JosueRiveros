@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHzueOZGnj5HA/profile-displaybackgroundimage-shrink_350_1400/0/1692479905845?e=1698278400&v=beta&t=eDMjSWMWvwCedxeEUHWsyYB9YMPJP1quBbKwrLQUOPA">
 <h1 align="center">Hi < Developers /> 👋, I'm Josue</h1>
 <h3 align="center">Im a newly full stack web developer from Peru</h3>
 
