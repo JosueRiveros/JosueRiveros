@@ -23,7 +23,7 @@ Tech skills:<br/>
 <a href="https://www.linkedin.com/in/josue-riveros-36b11b209/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a><br/>
-📧 josuesmitr@gmail.com<br/>
+📧 josueriverosf@gmail.com<br/>
 </p><br/>
 
 <h3 align="left">My function:</h3>
