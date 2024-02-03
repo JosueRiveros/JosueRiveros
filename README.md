@@ -15,6 +15,8 @@ Tech skills:<br/>
 ◾ Power BI<br/>
 ◾ SQL<br/>
 ◾ JavaScript<br/>
+◾ HTML<br/>
+◾ CSS<br/>
 ◾ React<br/>
 ◾ Node.js<br/>
 ◾ Express.js<br/>
