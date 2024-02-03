@@ -44,7 +44,7 @@ While(me) { <br/>
 
 
 <h3 align="left">Languages and Tools:</h3><br/>
-<div style="text-align: center;">
+<div style="text-align: center">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" height="50" /></a>
   <a href="https://powerbi.microsoft.com/es-es/desktop/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI" height="50" /></a>
