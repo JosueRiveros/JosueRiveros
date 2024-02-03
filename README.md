@@ -6,17 +6,19 @@
 I am a Full Stack Web Developer and Data Analyst, passionate about programming and web development. I consider myself an innovative and self-taught person who enjoys working as a team and always being at the forefront of new technologies. I have skills in Full Stack Development and Data Analytics, including Python, Pandas, Power BI, SQL, JavaScript, HTML, CSS, React, Node.js and more. 
 I also have certification in advanced English.
 
-If you have any further questions or if there's anything else you'd like to discuss, feel free to let me know!<br/>
+If you have any questions or if there's anything else you'd like to discuss, feel free to let me know!<br/>
 💛 I am a proactive, creative, decisive and perfectionist person.<br/>
 <br/>
 Tech skills:<br/>
+◾ Python<br/>
+◾ Pandas<br/>
+◾ Power BI<br/>
+◾ SQL<br/>
 ◾ JavaScript<br/>
-◾ Node<br/>
 ◾ React<br/>
-◾ Redux<br/>
-◾ Express<br/>
-◾ Sequelize<br/>
-◾ PostgreSQL<br/>
+◾ Node.js<br/>
+◾ Express.js<br/>
+◾ Next.js<br/>
 </p>
 <br/>
 <h3 align="left">Connect with me:</h3>
