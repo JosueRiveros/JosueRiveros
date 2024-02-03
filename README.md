@@ -3,7 +3,8 @@
 
 <h3 align="left">Who am I?</h3>
 <p align="left">
-I am a Full Stack Web Developer and Data Analyst, passionate about programming and web development. I consider myself an innovative and self-taught person who enjoys working in teams and is always at the forefront of new technologies. I have skills in Full Stack development and Data Analytics, including Python, Pandas, Power BI, SQL, JavaScript, React, Node.js, Next.js among others, and I also have certification in advanced English.
+I am a Full Stack Web Developer and Data Analyst, passionate about programming and web development. I consider myself an innovative and self-taught person who enjoys working as a team and always being at the forefront of new technologies. I have skills in Full Stack Development and Data Analytics, including Python, Pandas, Power BI, SQL, JavaScript, HTTML, CSS, React, Node.js, Next.js and more. 
+I also have certification in advanced English.
 
 If you have any further questions or if there's anything else you'd like to discuss, feel free to let me know!<br/>
 💛 I am a proactive, creative, optimistic, dedicated, decisive and perfectionist person.<br/>
